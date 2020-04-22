@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.user
+*.db
+Unleashed/.vs/Unleashed/v16/.suo
+*.filters

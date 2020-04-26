@@ -3,7 +3,7 @@
         {
             "name": "Unleashed.dll",    
             "relativePath": "EraEditor",
-            "url": "https://github.com/RoseKavalier/H3MapEditor/raw/master/Unleashed/Files/Unleashed.dll",
+            "url": "https://raw.githubusercontent.com/RoseKavalier/H3MapEditor/master/Unleashed/Files/Unleashed.dll",
             "version": {
                 "major": 1,
                 "minor": 24,
@@ -13,7 +13,7 @@
         },
         {
             "name": "Changelog.txt",
-            "url": "https://github.com/RoseKavalier/H3MapEditor/raw/master/Unleashed/Files/Changelog.txt",
+            "url": "https://raw.githubusercontent.com/RoseKavalier/H3MapEditor/master/Unleashed/Files/Changelog.txt",
             "version": {
                 "major": 1,
                 "minor": 24,

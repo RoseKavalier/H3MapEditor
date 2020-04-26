@@ -1,17 +1,16 @@
 ====================
     Version 1.24
 ====================
-[+] UnleashedUpdater provides automatic version check and update on launch for
-	Note1: although version check is enabled with ERA, running UnleashedUpdater manually is required to update Unleashed
-	Note2: can be disabled throught Unleashed.ini [options][Update]
-[+] All text is now read through UnleashedText.json, for easy customization
-[+] Full Russification of Unleashed text available (thanks Berserker, igrik)
+[+] UnleashedUpdater provides automatic version check and update on launch
+	Note: can be disabled throught Unleashed.ini [options][Update]
+[+] All text is now UTF8 and read through UnleashedText.json, for easy customization
+[+] Full Russification of Unleashed text available (thanks Berserker, Grossmaster, igrik)
 	Note: set through Unleashed.ini [options][Language]
 [+] SoD_SP dialog is now created using h3maped's MFC Dialogs, removing occasional graphical issues
 [+] Adding experimental option to center monsters based on their actual position
 	Note: refer to documentation for more information
-[ ] Various GUI modifications for Russification
 [-] Fixed a logic issue when trying to access password-protected SoD_SP options dialog
+[ ] Various GUI modifications for Russification
 
 ====================
     Version 1.23
